@@ -7,6 +7,8 @@ Very simple AR app in visionOS, that shows portal spaces with an occlusion mater
 
 *Since this project is based on the beta software, this repository is temporal and will be deleted after a while.*
 
+![Image](assets/pict01_1600.png)
+
 ## Assets
 
 Some HDRI textures are bundled. Thank you for sharing great HDRI textures.
